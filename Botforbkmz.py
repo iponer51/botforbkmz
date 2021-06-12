@@ -501,4 +501,4 @@ async def плакать(ctx):
 
 
 
-client.run("ODUyMjM5Mjc4MjI1NDg5OTQw.YMD7rQ.cZcjerNLstCO16DdPZQHKCU6jA4")
+client.run("TOKEN")
